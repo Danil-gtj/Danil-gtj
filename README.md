@@ -1,4 +1,4 @@
-## Hi there 👋
+## What a wonderful day! 😄
 
 - 📖 I’m a university student who knows how to make games, create applications, build websites (frontend and backend), and develop bots for different social media platforms. Here’s what I can do:
   - 🎮 Create games using Unreal Engine and Unity. I use Blender for 3D modeling and Substance Painter for texturing.
