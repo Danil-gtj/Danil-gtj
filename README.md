@@ -2,7 +2,7 @@
 # What a wonderful day! 😄
 > [!IMPORTANT]
 > - 📖 I’m a university student who knows how to make games, create applications, build websites (frontend and backend), and develop bots for different social media platforms. Here’s what I can do:
->   - 🎮 Create games using `Unreal Engine` and `Unity`. I use `Blender` for 3D modeling and `Substance Painter` for texturing[^1].
+>   - 🎮 Create games using `Unreal Engine` and `Unity`. I use `Blender` for 3D modeling and `Substance Painter` for texturing.
 >   - 🌐 Build websites; I can use `Vue.js`, `Reac.js`, and `Node.js` for frontend. For backend, I mostly use `Python Django`.
 >   - 📱 To create applications, I use `Flutter` (the most flexible framework).
 >   - 👾 I use `Python` to create bots for social platforms.   
