@@ -25,10 +25,6 @@
 >### _GAME DEV:_ ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 # 📈INTERESTING STATISTICS📈: 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danil-gtj&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danil-gtj&layout=compact&theme=dark)
-
 ![Views](https://komarev.com/ghpvc/?username=Danil-gtj&color=blue)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Danil-gtj&theme=dark)
