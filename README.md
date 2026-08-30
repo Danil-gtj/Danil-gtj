@@ -26,8 +26,11 @@
 
 # 📈INTERESTING STATISTICS📈: 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danil-gtj&show_icons=true&theme=dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danil-gtj&layout=compact&theme=dark)
+
 ![Views](https://komarev.com/ghpvc/?username=Danil-gtj&color=blue)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Danil-gtj&theme=dark)
 
 
