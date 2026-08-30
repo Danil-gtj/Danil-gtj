@@ -3,7 +3,7 @@
 > [!IMPORTANT]
 > - 📖 I’m a university student who knows how to make games, create applications, build websites (frontend and backend), and develop bots for different social media platforms. Here’s what I can do:
 >   - 🎮 Create games using `Unreal Engine` and `Unity`. I use `Blender` for 3D modeling and `Substance Painter` for texturing.
->   - 🌐 Build websites; I can use `Vue.js`, `Reac.js`, and `Node.js` for frontend. For backend, I mostly use `Python Django`.
+>   - 🌐 Build websites; I can use `Vue.js`, `React.js`, and `Node.js` for frontend. For backend, I mostly use `Python Django`.
 >   - 📱 To create applications, I use `Flutter` (the most flexible framework).
 >   - 👾 I use `Python` to create bots for social platforms.   
 
@@ -12,7 +12,7 @@
 > - 📝 I’m currently studying math, which helps me improve my hard skills for future work.
 
 
-# ⚙️MY STACKS⚙️:
+# ⚙️MY STACK⚙️:
 > [!TIP]
 >### _LANGUAGES:_ ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 > 
@@ -30,7 +30,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Danil-gtj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-[![](https://visitcount.itsvg.in/api?id=Danil-gtj&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=Danil-gtj&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
