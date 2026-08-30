@@ -25,12 +25,10 @@
 >### _GAME DEV:_ ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 # 📈INTERESTING STATISTICS📈: 
-![](https://github-readme-stats.vercel.app/api?username=Danil-gtj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Danil-gtj&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Danil-gtj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-![](https://visitcount.itsvg.in/api?id=Danil-gtj&icon=0&color=0)](https://visitcount.itsvg.in)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danil-gtj&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danil-gtj&layout=compact&theme=dark)
+![Views](https://komarev.com/ghpvc/?username=Danil-gtj&color=blue)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Danil-gtj&theme=dark)
 
 
 
